@@ -30,3 +30,4 @@ docker run --name demoapi -e POSTGRES_PASSWORD=1234 -p 5432:5432 -d postgres:alp
 uvicorn main:app --reload
  ```
 * Run Test.py , i have added some sample data and generated response.json file for it
+* Use http://159.65.157.100:8000/docs for trying out the API before 25 June
