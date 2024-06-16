@@ -1,0 +1,95 @@
+[
+    {
+        "contact": {
+            "primaryContactId": 1,
+            "emails": [
+                "deval@gmail.com"
+            ],
+            "phoneNumbers": [
+                "1200"
+            ],
+            "secondaryContactIds": []
+        }
+    },
+    {
+        "contact": {
+            "primaryContactId": 1,
+            "emails": [
+                "deval@gmail.com"
+            ],
+            "phoneNumbers": [
+                "1200",
+                "1230"
+            ],
+            "secondaryContactIds": [
+                2
+            ]
+        }
+    },
+    {
+        "contact": {
+            "primaryContactId": 3,
+            "emails": [
+                "jay@gmail.com"
+            ],
+            "phoneNumbers": [
+                "1400"
+            ],
+            "secondaryContactIds": []
+        }
+    },
+    {
+        "contact": {
+            "primaryContactId": 1,
+            "emails": [
+                "deval@gmail.com",
+                "jay@gmail.com"
+            ],
+            "phoneNumbers": [
+                "1230",
+                "1400",
+                "1200"
+            ],
+            "secondaryContactIds": [
+                2,
+                3,
+                4
+            ]
+        }
+    },
+    {
+        "contact": {
+            "primaryContactId": 5,
+            "emails": [
+                "subh@gmail.com"
+            ],
+            "phoneNumbers": [
+                "1700"
+            ],
+            "secondaryContactIds": []
+        }
+    },
+    {
+        "contact": {
+            "primaryContactId": 1,
+            "emails": [
+                "deval@gmail.com",
+                "jay@gmail.com",
+                "subh@gmail.com"
+            ],
+            "phoneNumbers": [
+                "1230",
+                "1400",
+                "1700",
+                "1200"
+            ],
+            "secondaryContactIds": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    }
+]
